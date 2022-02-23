@@ -1,0 +1,5 @@
+1 Sbiduria
+2 Atencion
+3 Paz
+4 Meditar
+5 Callar
